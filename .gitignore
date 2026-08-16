@@ -1,0 +1,5 @@
+*.o
+solver
+output/*
+!output/.gitkeep
+.DS_Store
