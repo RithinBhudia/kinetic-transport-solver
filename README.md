@@ -26,8 +26,6 @@ kinetic-transport-solver/
 │   └── kinetic.h
 ├── examples/
 │   └── beam.cfg
-├── scripts/
-│   └── plot_solution.py
 ├── output/
 ├── Makefile
 ├── README.md
